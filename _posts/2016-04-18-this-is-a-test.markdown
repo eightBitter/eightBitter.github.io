@@ -2,6 +2,7 @@
 published: true
 title: This is a test
 layout: post
+tags: [test, metadata, multiple_word]
 ---
 This post serves as a test to see the structure of tinypress.
 
