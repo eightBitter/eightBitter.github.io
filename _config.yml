@@ -1,0 +1,6 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://eightBitter.github.io
+title: Jacob Shelby
+paginate: 10
