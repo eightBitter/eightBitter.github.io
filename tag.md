@@ -3,6 +3,7 @@ published: true
 layout: post
 title: Blog Posts by Tag
 desc: "A list of posts by tag."
+permalink: /tag
 ---
 
 Click on a tag to see relevant list of posts.
