@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Blog Posts by Tag
-desc: "A list of posts by relevant tag."
+desc: "A list of posts by tag."
 permalink: /tag
 ---
 
-Click on a tag to see list of posts.
+Click on a tag to see list of relevant posts.
 
 <ul class="tags">
 {% for tag in site.tags %}
