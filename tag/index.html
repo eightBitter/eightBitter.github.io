@@ -4,7 +4,7 @@ title: Blog Posts by Tag
 desc: "A list of posts by tag."
 ---
 
-Click on a tag to see relevant list of posts.
+<p>Click on a tag to see relevant list of posts.</p>
 
 <ul class="tags">
 {% for tag in site.tags %}
@@ -13,7 +13,7 @@ Click on a tag to see relevant list of posts.
 {% endfor %}
 </ul>
 
----
+<hr/>
 
 {% for tag in site.tags %}
   {% assign t = tag | first %}
@@ -31,6 +31,6 @@ Click on a tag to see relevant list of posts.
 {% endfor %}
 </ul>
 
----
+<hr/>
 
 {% endfor %}
