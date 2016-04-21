@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="wrapper" itemscope itemtype="http://schema.org/BlogPosting">
-    <div itemprop="author" itemsope itemtype="http://schema.org/Person">
+    <div itemprop="author" itemscope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Jacob Shelby"/>
       <meta itemprop="url" content="http://jacobshelby.org"/>
     </div>
@@ -23,7 +23,7 @@
         <time itemprop="datePublished" datetime="{{ page.date}}">{{ page.date | date_to_string }}</time>
         <meta itemprop="dateModified" content="{{ page.date }}"/>
     </header>
-    <article item="mainEntityOfPage">
+    <article itemprop="mainEntityOfPage">
         {{ content }}
         {% for post in site.posts %}
             {% if post.url == page.url %}
