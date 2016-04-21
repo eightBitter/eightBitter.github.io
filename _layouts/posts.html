@@ -9,11 +9,15 @@
     <link rel="stylesheet" href="assets/css/style.css" />
 </head>
 <body>
-    <div class="wrapper">
+    <div class="wrapper" itemscope itemtype="http://schema.org/WebPage">
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <meta itemprop="name" content="Jacob Shelby"/>
+          <meta itemprop="url" content="http://jacobshelby.org"/>
+        </span>
         <header>
-            <h1>{{ site.title }}</h1>
+            <h1 itemprop="name">{{ site.title }}</h1>
         </header>
-        <article class="list">
+        <article class="list" itemprop="mainContentOfPage">
             <ul class="post-list">
                 {{ content }}
 
