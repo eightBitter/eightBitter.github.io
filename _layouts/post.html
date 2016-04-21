@@ -10,19 +10,24 @@
     <link rel="alternate" type="application/atom+xml" title="Feed for blog posts" href="/feed.xml">
 </head>
 <body>
-    <div class="wrapper">
+    <div class="wrapper" itemscope itemtype="http://schema.org/BlogPosting">
+    <span itemprop="author" itemsope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="Jacob Shelby"/>
+      <meta itemprop="url" content="http://jacobshelby.org"/>
+    </span>
     <nav>
         <a href="/">home</a> &middot; <a href="/feed.xml">feed</a>
     </nav>
     <header>
-        <h1>{{ page.title }}</h1>
+        <h1 itemprop="headline">{{ page.title }}</h1>
         <time>{{ page.date | date_to_string }}</time>
+        <meta itemprop="datePublished" content="{{ page.date }}"/>
     </header>
-    <article>
+    <article item="articleBody">
         {{ content }}
         {% for post in site.posts %}
             {% if post.url == page.url %}
-                {% assign post_index = forloop.index %}                        
+                {% assign post_index = forloop.index %}
             {% endif %}
         {% endfor %}
         {% for post in site.posts %}
