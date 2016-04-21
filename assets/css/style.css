@@ -91,6 +91,31 @@ blockquote{
 article > ul, article > ol, .post-list ul, .post-list ol{
     margin-left:35px;
 }
+main{
+    padding: 15px;
+    font-size: 90%;
+}
+main p{
+    padding: 10px
+}
+main a{
+    color: #407FBF;
+}
+main h3{
+    color: #FF9999;
+}
+main a:visited{
+    color: #74A2D0;
+}
+main img{
+    max-width: 550px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+}
+main.list{
+    padding: 0
+}
 .post-list{
     list-style: none;
     margin: 0;
