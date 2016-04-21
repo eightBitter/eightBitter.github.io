@@ -11,19 +11,19 @@
 </head>
 <body>
     <div class="wrapper" itemscope itemtype="http://schema.org/BlogPosting">
-    <span itemprop="author" itemsope itemtype="http://schema.org/Person">
+    <div itemprop="author" itemsope itemtype="http://schema.org/Person">
       <meta itemprop="name" content="Jacob Shelby"/>
       <meta itemprop="url" content="http://jacobshelby.org"/>
-    </span>
+    </div>
     <nav>
         <a href="/">home</a> &middot; <a href="/feed.xml">feed</a>
     </nav>
     <header>
         <h1 itemprop="headline">{{ page.title }}</h1>
-        <time>{{ page.date | date_to_string }}</time>
-        <meta itemprop="datePublished" content="{{ page.date }}"/>
+        <time itemprop="datePublished" datetime="{{ page.date}}">{{ page.date | date_to_string }}</time>
+        <meta itemprop="dateModified" content="{{ page.date }}"/>
     </header>
-    <article item="articleBody">
+    <article item="mainEntityOfPage">
         {{ content }}
         {% for post in site.posts %}
             {% if post.url == page.url %}
