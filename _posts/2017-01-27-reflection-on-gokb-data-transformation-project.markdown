@@ -14,7 +14,7 @@ The [Global Open Knowledgebase](http://gokb.org) (GOKb) project aims to create a
 
 Here's a diagram of the data transformation process. I'll mostly be talking about the portion in green.
 
-![alt Data Transformation Pipeline](../assets/images/dataTransformationWorkflow.png)
+![alt Data Transformation Pipeline](/assets/images/dataTransformationWorkflow.png)
 
 ## Detailing the Work
 
