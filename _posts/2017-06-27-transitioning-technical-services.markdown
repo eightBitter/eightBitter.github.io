@@ -1,6 +1,6 @@
 ---
 published: true
-title: Transitioning Technical Services: Training Staff to Meet Evolving Needs
+title: "Transitioning Technical Services: Training Staff to Meet Evolving Needs"
 layout: post
 ---
 
