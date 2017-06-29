@@ -82,7 +82,7 @@ As an example, let’s look at a metadata project. This project was a partnershi
 
 There were two skills that staff needed in order to participate in this project: knowledge of Schema.org vocabularies and the Javascript Object Notation – Linked Data (JSON-LD) data format. I designed a two-part training series that gave staff foundational knowledge of Schema.org and JSON-LD. These newly-acquired skills were then directly applied to the project itself.
 
-Training materials for this training series can be accessed at http://tinyurl.com/ncsuSchemaTraining
+Training materials for this training series can be accessed at [http://tinyurl.com/ncsuSchemaTraining](http://tinyurl.com/ncsuSchemaTraining)
 
 ### Conversations
 
@@ -114,7 +114,7 @@ An example of this method is a metadata training series I designed while at Iowa
 
 ![alt Metadata Foundations](/assets/images/metadataFoundations.png)
 
-You can find all the training materials at http://tinyurl.com/isuMetadataTraining.
+You can find all the training materials at [http://tinyurl.com/isuMetadataTraining](http://tinyurl.com/isuMetadataTraining).
 
 ### Workshops
 
@@ -138,6 +138,6 @@ The second list includes approaches to applying the methods: self evaluation, gr
 
 These methods and approaches can follow any combination. For example, during the two-semester-long metadata training I did at Iowa State University I performed iterative assessment in the form of self evaluation. I would take time after each session to reflect on whether or not it seemed like staff were grasping the concepts. I did determine that my pacing was a little off, so for the second semester I lightened the content for each session. This seemed to help.
 
-##Conclusion
+## Conclusion
 
 Do you have thoughts on other strategies or approaches to staff development? Do you have training resources to share? Ping me on Twitter at [@jacob_shelby421](https://twitter.com/jacob_shelby421), or email jtshelby [at] ncsu [dot] edu.
