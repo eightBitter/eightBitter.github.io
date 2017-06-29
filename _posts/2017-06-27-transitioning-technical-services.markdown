@@ -30,7 +30,7 @@ The Metadata and Monographs Original Cataloging unit is responsible original cat
 
 These descriptions detail the core work of the department. However, the department continues to seek metadata partnerships with other departments, namely on collections within the library’s special collections and institutional repositories.
 
-You can find more information about the department at http://www.lib.iastate.edu/info/6909
+You can find more information about the department at [http://www.lib.iastate.edu/info/6909](http://www.lib.iastate.edu/info/6909)
 
 ### NCSU Acquisitions & Discovery
 
@@ -44,7 +44,7 @@ DPP, the unit I work in, traditionally provides data support for the Monographs 
 
 There are a few things to note about A&D. A&D is a fairly new department which resulted in the merger of an Acquisitions department and Metadata and Cataloging department. Throughout the first few years, A&D has prioritized cross-training all staff on both acquisitions and cataloging tasks, meaning that staff are capable of performing tasks involved in both acquiring and describing library materials.
 
-You can find more information about the department at https://www.lib.ncsu.edu/department//acquisitions-discovery
+You can find more information about the department at [https://www.lib.ncsu.edu/department//acquisitions-discovery](https://www.lib.ncsu.edu/department//acquisitions-discovery)
 
 ## Strategies for Identifying Potential Training Opportunities
 
