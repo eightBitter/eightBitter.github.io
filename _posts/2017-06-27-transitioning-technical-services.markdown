@@ -14,7 +14,6 @@ Today I’ll be opening up the session with some foundational methods and strate
 
 The content in my presentation comes from my experiences and experiences of my current and former colleagues. I wish to give credit where credit is due, so please be patient with me through the presentation.
 
-
 ## Former and Current Workplace Context
 
 ### Iowa State University Metadata & Cataloging
@@ -31,7 +30,7 @@ The Metadata and Monographs Original Cataloging unit is responsible original cat
 
 These descriptions detail the core work of the department. However, the department continues to seek metadata partnerships with other departments, namely on collections within the library’s special collections and institutional repositories.
 
-You can find more information about the department at <http://www.lib.iastate.edu/info/6909>
+You can find more information about the department at http://www.lib.iastate.edu/info/6909
 
 ### NCSU Acquisitions & Discovery
 
@@ -62,8 +61,6 @@ Pictured is an example of a topic brainstorming exercise. Some colleagues and I 
 Credit goes to my colleagues who participated in the brainstorming exercise: Sonoe Nakasone, Kristen Wilson, and Lynn Whittenberger.
 
 ### Needs Assessment
-
-
 
 Needs assessment is a strategy for identifying needs in a targeted, controlled fashion. This is commonly done through a survey.  This strategy is good for assessing specific needs of a specific group.
 
@@ -117,7 +114,7 @@ An example of this method is a metadata training series I designed while at Iowa
 
 ![alt Metadata Foundations](/assets/images/metadataFoundations.png)
 
-You can find all the training materials at <http://tinyurl.com/isuMetadataTraining>.
+You can find all the training materials at http://tinyurl.com/isuMetadataTraining.
 
 ### Workshops
 
